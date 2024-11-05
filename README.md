@@ -28,10 +28,18 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
-
+Figure -02 HALF Subtractor
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
-Figure -02 HALF Subtractor
+
+**truth table**
+
+half adder
+![image](https://github.com/user-attachments/assets/0212b441-fedb-432f-87ed-80973582c652)
+
+half subractor
+![image](https://github.com/user-attachments/assets/4f28c962-9d10-41b0-a4b6-67c4812eb73c)
+
 
 
 
@@ -73,4 +81,4 @@ Developed by: RegisterNumber:24900445
 
 
 **Result:**
-the truth tables of half subractor and full adder are verified
+the truth tables of half subractor and half adder are verified
